@@ -1,0 +1,14 @@
+/home/znao/Документы/program/bin/Debug/net9.0/program
+/home/znao/Документы/program/bin/Debug/net9.0/program.deps.json
+/home/znao/Документы/program/bin/Debug/net9.0/program.runtimeconfig.json
+/home/znao/Документы/program/bin/Debug/net9.0/program.dll
+/home/znao/Документы/program/bin/Debug/net9.0/program.pdb
+/home/znao/Документы/program/obj/Debug/net9.0/program.GeneratedMSBuildEditorConfig.editorconfig
+/home/znao/Документы/program/obj/Debug/net9.0/program.AssemblyInfoInputs.cache
+/home/znao/Документы/program/obj/Debug/net9.0/program.AssemblyInfo.cs
+/home/znao/Документы/program/obj/Debug/net9.0/program.csproj.CoreCompileInputs.cache
+/home/znao/Документы/program/obj/Debug/net9.0/program.dll
+/home/znao/Документы/program/obj/Debug/net9.0/refint/program.dll
+/home/znao/Документы/program/obj/Debug/net9.0/program.pdb
+/home/znao/Документы/program/obj/Debug/net9.0/program.genruntimeconfig.cache
+/home/znao/Документы/program/obj/Debug/net9.0/ref/program.dll
