@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SFAqObxb+zQ=",
+  "dgSpecHash": "YwGoYZ4Ymrw=",
   "success": true,
-  "projectFilePath": "/home/znao/Learning-C-/program.csproj",
+  "projectFilePath": "/home/znao/Learning-C-/Learning-C-.csproj",
   "expectedPackageFiles": [
     "/home/znao/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.4/microsoft.aspnetcore.app.ref.9.0.4.nupkg.sha512"
   ],

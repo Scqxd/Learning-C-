@@ -57,3 +57,4 @@ string jssimb = "List";
 bool Gen = true;
 
 Console.WriteLine("Дробное: {2} Лист: {0} Правда: {1}", jssimb, Gen, ksnumb);
+

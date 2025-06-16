@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/znao/Learning-C-/program.csproj",
-      "projectName": "program",
-      "projectPath": "/home/znao/Learning-C-/program.csproj",
+      "projectUniqueName": "/home/znao/Learning-C-/Learning-C-.csproj",
+      "projectName": "Learning-C-",
+      "projectPath": "/home/znao/Learning-C-/Learning-C-.csproj",
       "packagesPath": "/home/znao/.nuget/packages/",
       "outputPath": "/home/znao/Learning-C-/obj/",
       "projectStyle": "PackageReference",
