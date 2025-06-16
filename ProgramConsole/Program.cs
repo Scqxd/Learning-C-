@@ -12,3 +12,8 @@ int num2 = Convert.ToInt32(Console.ReadLine());
 int result;
 result = num1 + num2;
 Console.WriteLine($"Ваш результат: {result}");
+
+int a = 10;
+int b = a + 40;
+Console.WriteLine(b);
+
