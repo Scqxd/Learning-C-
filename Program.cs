@@ -39,9 +39,21 @@ var G = "Hio";
 
 Console.WriteLine(G);
 
-//Можно использовать переменные с помощью индексов
+//Можно использовать переменные с помощью плейсхолдеров
+
 
 string names = "Tom";
 int ages = 34;
 double height = 1.7;
 Console.WriteLine("Имя: {0}  Возраст: {2}  Рост: {1}м", names, height, ages);
+
+float dnumber = 3.14F;
+int number = 314;
+var gay = "I am gay";
+Console.WriteLine("Дробное: {2} Обычное: {0} Строчное: {1}", number, gay, dnumber);
+
+double ksnumb = 74.3245;
+string jssimb = "List";
+bool Gen = true;
+
+Console.WriteLine("Дробное: {2} Лист: {0} Правда: {1}", jssimb, Gen, ksnumb);

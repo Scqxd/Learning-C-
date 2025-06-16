@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/znao/Документы/program/program.csproj": {}
+    "/home/znao/Learning-C-/program.csproj": {}
   },
   "projects": {
-    "/home/znao/Документы/program/program.csproj": {
+    "/home/znao/Learning-C-/program.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/znao/Документы/program/program.csproj",
+        "projectUniqueName": "/home/znao/Learning-C-/program.csproj",
         "projectName": "program",
-        "projectPath": "/home/znao/Документы/program/program.csproj",
+        "projectPath": "/home/znao/Learning-C-/program.csproj",
         "packagesPath": "/home/znao/.nuget/packages/",
-        "outputPath": "/home/znao/Документы/program/obj/",
+        "outputPath": "/home/znao/Learning-C-/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/znao/.nuget/NuGet/NuGet.Config"
