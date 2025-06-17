@@ -102,3 +102,20 @@ bool sf8 = pop >= lok;
 bool sf9 = pop <= pok;
 
 Console.WriteLine($"sf1 - {sf1}, sf2 - {sf2}, sf3 - {sf3}\nsf4 - {sf4}, sf5 - {sf5}, sf6 - {sf6}\nsf7 - {sf7}, sf8 - {sf8}, sf9 - {sf9}");
+
+bool i1 = (5 > 6) | (4 < 6); // 5 > 6 - false, 4 < 6 - true, поэтому возвращается true
+bool i2 = (5 > 6) | (4 > 6); // 5 > 6 - false, 4 > 6 - false, поэтому возвращается false
+
+bool y1 = (5 > 6) & (4 < 6); // 5 > 6 - false, 4 < 6 - true, поэтому возвращается false
+bool y2 = (5 < 6) & (4 < 6); // 5 < 6 - true, 4 < 6 - true, поэтому возвращается true
+
+bool u1 = true;
+bool u2 = !u1;    // false
+
+/*
+
+& - Логическое И
+| - Логическое ИЛИ
+! - Логическое ОТРИЦАНИЕ
+
+*/
