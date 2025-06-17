@@ -13,6 +13,8 @@ int result;
 result = num1 + num2;
 Console.WriteLine($"Ваш результат: {result}");
 
+//арифмитические операции
+
 int a = 10;
 int b = a + 40;
 Console.WriteLine(b);
@@ -27,3 +29,8 @@ Console.WriteLine(z);
 var x = 10.0;
 var y = x % 4.0; //результат равен 2
 Console.WriteLine(y);
+
+int x2 = 5;
+int z2 = ++x2; // z2=5; x2=6
+Console.WriteLine($"{x2} - {z2}");
+
