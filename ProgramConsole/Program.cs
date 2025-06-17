@@ -17,3 +17,6 @@ int a = 10;
 int b = a + 40;
 Console.WriteLine(b);
 
+float sd = 3.65F;
+var bd = sd + 3465;
+Console.WriteLine(bd);
