@@ -31,6 +31,16 @@ var y = x % 4.0; //результат равен 2
 Console.WriteLine(y);
 
 int x2 = 5;
-int z2 = ++x2; // z2=5; x2=6
+int z2 = ++x2; // z2=5; x2=6 ++ - префикс
 Console.WriteLine($"{x2} - {z2}");
 
+//Сложный пример про префиксы!!!
+
+int r = 3;
+int k = 5;
+int c = 40;
+int d = c---b*a;    // r=3  k=5  c=39  d=25
+Console.WriteLine($"r={r}  k={k}  c={c}  d={d}");
+
+double love = 10 / (5 * 2); //Для обозначения приоритетности добавлять скобки!!!
+Console.WriteLine(love);
