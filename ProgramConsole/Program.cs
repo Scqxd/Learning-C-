@@ -119,3 +119,5 @@ bool u2 = !u1;    // false
 ! - Логическое ОТРИЦАНИЕ
 
 */
+
+Console.WriteLine($"{i1} {i2} {y1} {y2} {u2}");
