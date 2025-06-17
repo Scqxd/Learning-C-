@@ -143,6 +143,7 @@ for (log = 10; log < 1001; log++)
     }
 }
 
+
 bool log2 = true; //Супер мега наебка
 
 if (!!log2) {
