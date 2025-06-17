@@ -20,3 +20,10 @@ Console.WriteLine(b);
 float sd = 3.65F;
 var bd = sd + 3465;
 Console.WriteLine(bd);
+
+var z = 10.0 /  4.0;
+Console.WriteLine(z);
+
+var x = 10.0;
+var y = x % 4.0; //результат равен 2
+Console.WriteLine(y);
