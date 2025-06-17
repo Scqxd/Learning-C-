@@ -2,9 +2,9 @@
 
 Console.WriteLine("Выберите действие!");
 Console.WriteLine("1 - Сложение\n2 - Вычитание\n3 - Умножение\n4 - Деление");
-int a = Convert.ToInt32(Console.ReadLine());
+int input = Convert.ToInt32(Console.ReadLine());
 
-    if (a == 1)
+    if (input == 1)
     {
 
     Console.WriteLine("Введите 2 числа которые вам надо сложить!");
@@ -14,7 +14,7 @@ int a = Convert.ToInt32(Console.ReadLine());
     Console.WriteLine($"Ваш результат - {result}");
     }
 
-    else if (a == 2)
+    else if (input == 2)
     {
 
     Console.WriteLine("Введите 2 числа которые вам надо отнять!");
@@ -25,7 +25,7 @@ int a = Convert.ToInt32(Console.ReadLine());
 
     }
 
-    else if (a == 3)
+    else if (input == 3)
     {
 
     Console.WriteLine("Введите 2 числа которые вам надо умножить!");
@@ -36,7 +36,7 @@ int a = Convert.ToInt32(Console.ReadLine());
 
     }
 
-    else if (a == 4)
+    else if (input == 4)
     {
 
     Console.WriteLine("Введите 2 числа которые вам надо поделить!");
@@ -47,7 +47,7 @@ int a = Convert.ToInt32(Console.ReadLine());
 
     }
 
-    else if (a > 4)
+    else if (input > 4)
 
     {
     
