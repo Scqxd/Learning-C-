@@ -1,4 +1,6 @@
-﻿Console.Write("Укажите ваш возраст: ");
+﻿using System.Runtime.InteropServices;
+
+Console.Write("Укажите ваш возраст: ");
 string? age = Console.ReadLine(); // Читка ответа пользователя
 Console.WriteLine($"Вам {age} лет!");
 
@@ -114,10 +116,36 @@ bool u2 = !u1;    // false
 
 /*
 
-& - Логическое И
-| - Логическое ИЛИ
+&& - Логическое И
+|| - Логическое ИЛИ
 ! - Логическое ОТРИЦАНИЕ
 
 */
 
 Console.WriteLine($"{i1} {i2} {y1} {y2} {u2}");
+
+int vex = 1; //Массивчик на for
+
+for (vex = 1; vex < 25; vex++)
+{
+    Console.WriteLine(vex);
+}
+
+Console.WriteLine("penis");
+
+int log = 10; //Отстаток от деления
+for (log = 10; log < 1001; log++)
+{
+    
+    if (log % 2 == 0)
+    {
+        Console.WriteLine(log);
+    }
+}
+
+bool log2 = true; //Супер мега наебка
+
+if (!!log2) {
+    Console.WriteLine(log2);
+}
+
