@@ -44,3 +44,25 @@ Console.WriteLine($"r={r}  k={k}  c={c}  d={d}");
 
 double love = 10 / (5 * 2); //Для обозначения приоритетности добавлять скобки!!!
 Console.WriteLine(love);
+
+//Операции присваивания
+
+int num5, num6, num7;
+num5 = num6 = num7 = 228;
+Console.WriteLine($"5 - {num5}, 6 - {num6}, 7 - {num7}"); //Все обозначено в одну строку!!!
+
+int sum1, sum2, sum3;
+sum1 = sum2 = 25;
+sum3 = sum1 * sum2;
+Console.WriteLine($"{sum3}");
+
+int ram1 = 1;
+int ram2 = 0;
+
+Console.WriteLine($"Напишите число ram1 и я его переобразую во вторую переменную ram2\n(Пока Ram2 - {ram2}, Ram1 - {ram1})!!!");
+Console.WriteLine("Напишите число для ram1");
+ram1 = Convert.ToInt32(Console.ReadLine());
+
+ram2 = ram1;
+
+Console.WriteLine($"На основе вашего вписанного значения Ram1 = {ram1}, Ram2 = {ram2}");
